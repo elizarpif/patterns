@@ -4,3 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp
+
+HEADERS += \
+    product.h \
+    factory.h \
+    magnolia.h
